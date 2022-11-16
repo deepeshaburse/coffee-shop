@@ -557,7 +557,10 @@ section{
     color:var(--main-color);
 }
 
-
+.content-blog p {
+    color: #fff;
+    size: 18px;
+}
 
 
 
